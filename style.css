@@ -119,3 +119,9 @@ main {
   display: flex;
   flex-direction: column;
 }
+
+.two-keyboards {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
