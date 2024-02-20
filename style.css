@@ -81,7 +81,7 @@ main {
 
 .purchase {
   display: flex;
-  gap: 3.2rem;
+  gap: 5rem;
   align-items: center;
 }
 
@@ -96,4 +96,21 @@ main {
   text-transform: uppercase;
   font-weight: 700;
   line-height: 2.6rem;
+}
+
+.release-on {
+  color: #7b8bad;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+}
+
+.keyboard img {
+  margin-top: 7rem;
+  width: 35rem;
+  height: 33.1rem;
+  border-bottom-left-radius: 2rem;
+  border-top-left-radius: 2rem;
+  margin-left: 3rem;
 }
