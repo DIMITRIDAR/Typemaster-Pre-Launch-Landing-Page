@@ -40,3 +40,10 @@ header {
   line-height: 2.6rem;
   text-transform: uppercase;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
