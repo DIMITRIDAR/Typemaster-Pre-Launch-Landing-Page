@@ -114,3 +114,8 @@ main {
   border-top-left-radius: 2rem;
   margin-left: 3rem;
 }
+
+.parent {
+  display: flex;
+  flex-direction: column;
+}
