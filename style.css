@@ -125,3 +125,31 @@ main {
   gap: 2rem;
   margin-top: 2rem;
 }
+
+.phone-keyboard {
+  background-image: url(./assets/image-phone-and-keyboard-mobile.jpg);
+  width: 12.9rem;
+  height: 19.3rem;
+  background-size: cover;
+  border-top-right-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  background-repeat: no-repeat;
+  background-position: top;
+  position: relative;
+  z-index: -1;
+}
+
+.phone-keyboard::before {
+  content: "";
+  position: absolute;
+  opacity: 0.7486;
+  background-color: #f18c18df;
+  inset: 0;
+  z-index: -1;
+}
+
+.glass-keyboard {
+  width: 22rem;
+  height: 19.3rem;
+  border-radius: 2rem;
+}
