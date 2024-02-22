@@ -137,6 +137,7 @@ main {
   background-position: top;
   position: relative;
   z-index: -1;
+  right: 1rem;
 }
 
 .phone-keyboard::before {
@@ -146,6 +147,8 @@ main {
   background-color: #f18c18df;
   inset: 0;
   z-index: -1;
+  border-bottom-right-radius: 2rem;
+  border-top-right-radius: 2rem;
 }
 
 .glass-keyboard {
