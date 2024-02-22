@@ -165,3 +165,22 @@ main {
   margin-top: 5rem;
   gap: 2.4rem;
 }
+
+.text h2 {
+  color: #162542;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 3.6rem;
+  text-transform: uppercase;
+  width: 12ch;
+}
+
+.text p {
+  color: #7b8bad;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.6rem;
+  width: 35ch;
+}
