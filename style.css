@@ -273,4 +273,10 @@ footer span {
   .pre-order-button {
     padding: 1rem 2.6rem;
   }
+
+  .description {
+    display: flex;
+    flex-direction: row;
+    margin-top: 13.1rem;
+  }
 }
