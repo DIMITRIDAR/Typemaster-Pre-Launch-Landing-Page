@@ -139,7 +139,7 @@ main {
   background-position: top;
   position: relative;
   z-index: -1;
-  right: 2rem;
+  right: 3rem;
   background-color: #f16718;
   background-blend-mode: multiply;
 }
