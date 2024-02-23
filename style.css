@@ -230,3 +230,11 @@ main {
 .bulb {
   width: 14ch;
 }
+
+.easy-texts {
+  color: #7b8bad;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.6rem;
+}
