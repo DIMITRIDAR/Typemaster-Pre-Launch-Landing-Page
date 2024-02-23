@@ -279,4 +279,8 @@ footer span {
     flex-direction: row;
     margin-top: 13.1rem;
   }
+
+  .about-product {
+    gap: 3.4rem;
+  }
 }
