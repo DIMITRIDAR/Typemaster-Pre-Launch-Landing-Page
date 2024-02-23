@@ -117,6 +117,14 @@ main {
   margin-left: 3rem;
 }
 
+.for-tablet {
+  display: none;
+}
+
+.for-desktop {
+  display: none;
+}
+
 .parent {
   display: flex;
   flex-direction: column;
@@ -290,5 +298,13 @@ footer span {
 
   .pre-order-now {
     padding: 1rem 2.6rem;
+  }
+  .keyboard img {
+    margin-top: 7rem;
+    width: 35rem;
+    height: 33.1rem;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+    margin-left: 3rem;
   }
 }
