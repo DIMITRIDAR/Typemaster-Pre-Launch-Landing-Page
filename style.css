@@ -254,3 +254,20 @@ main {
 .width4 {
   width: 36ch;
 }
+
+footer {
+  margin-top: 9.6rem;
+  font-family: "Barlow";
+  padding-bottom: 5rem;
+}
+
+footer p {
+  color: #7b8bad;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2.6rem;
+}
+
+footer span {
+  font-weight: 500;
+}
