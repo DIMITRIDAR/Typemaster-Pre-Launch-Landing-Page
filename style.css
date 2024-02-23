@@ -283,4 +283,8 @@ footer span {
   .about-product {
     gap: 3.4rem;
   }
+
+  .purchase {
+    gap: 3.7rem;
+  }
 }
