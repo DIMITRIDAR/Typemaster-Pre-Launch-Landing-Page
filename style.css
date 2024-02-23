@@ -287,4 +287,8 @@ footer span {
   .purchase {
     gap: 3.7rem;
   }
+
+  .pre-order-now {
+    padding: 1rem 2.6rem;
+  }
 }
