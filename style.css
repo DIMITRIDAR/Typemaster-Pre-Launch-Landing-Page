@@ -139,7 +139,7 @@ main {
   background-position: top;
   position: relative;
   z-index: -1;
-  right: 3rem;
+  right: 2rem;
   background-color: #f16718;
   background-blend-mode: multiply;
 }
@@ -265,4 +265,12 @@ footer span {
 }
 
 @media only screen and (min-width: 48rem) {
+  header {
+    padding: 4.9rem 4rem 0;
+    gap: 47.4rem;
+  }
+
+  .pre-order-button {
+    padding: 1rem 2.6rem;
+  }
 }
