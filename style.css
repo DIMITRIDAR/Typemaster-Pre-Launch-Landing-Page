@@ -238,3 +238,19 @@ main {
   font-weight: 500;
   line-height: 2.6rem;
 }
+
+.width1 {
+  width: 37ch;
+}
+
+.width2 {
+  width: 36ch;
+}
+
+.width3 {
+  width: 35ch;
+}
+
+.width4 {
+  width: 36ch;
+}
