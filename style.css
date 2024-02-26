@@ -108,7 +108,7 @@ main {
   text-transform: uppercase;
 }
 
-.keyboard img {
+.for-mobile {
   margin-top: 7rem;
   width: 35rem;
   height: 33.1rem;
@@ -299,7 +299,7 @@ footer span {
   .pre-order-now {
     padding: 1rem 2.6rem;
   }
-  .keyboard img {
+  .for-tablet {
     margin-top: 7rem;
     width: 35rem;
     height: 33.1rem;
