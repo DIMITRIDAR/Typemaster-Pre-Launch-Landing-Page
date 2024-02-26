@@ -286,6 +286,7 @@ footer span {
     display: flex;
     flex-direction: row;
     margin-top: 13.1rem;
+    gap: 6.9rem;
   }
 
   .about-product {
@@ -299,12 +300,22 @@ footer span {
   .pre-order-now {
     padding: 1rem 2.6rem;
   }
+
+  .keyboard {
+    margin-top: 6.2rem;
+  }
+
+  .for-mobile {
+    display: none;
+  }
+
   .for-tablet {
-    margin-top: 7rem;
-    width: 35rem;
-    height: 33.1rem;
+    display: block;
+    margin-top: -12rem;
+    width: 47.8rem;
+    height: 42.5rem;
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
-    margin-left: 3rem;
+    margin-right: -17rem;
   }
 }
