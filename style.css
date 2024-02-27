@@ -381,4 +381,23 @@ footer span {
   .easy-texts {
     text-align: start;
   }
+
+  .width1 {
+    width: 32ch;
+  }
+
+  .width2 {
+    width: 31ch;
+  }
+
+  .width3 {
+    width: 31ch;
+  }
+
+  .width4 {
+    width: 32ch;
+  }
+
+  footer {
+  }
 }
