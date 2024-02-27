@@ -158,6 +158,13 @@ main {
   border-radius: 2rem;
   transform: translateX(-2rem);
 }
+.glass-tablet {
+  display: none;
+}
+
+.glass-desktop {
+  display: none;
+}
 
 .text {
   display: flex;
@@ -317,5 +324,10 @@ footer span {
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
     margin-right: -17rem;
+  }
+
+  .two-keyboards {
+    gap: 3.05rem;
+    margin-top: 2rem;
   }
 }
