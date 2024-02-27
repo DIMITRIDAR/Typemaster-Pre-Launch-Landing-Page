@@ -340,6 +340,13 @@ footer span {
     width: 44.5rem;
     height: 32rem;
     border-radius: 2rem;
-    transform: translateX(-2rem);
+    transform: translateX(0rem);
+  }
+
+  .phone-keyboard {
+    background-image: url(./assets/image-phone-and-keyboard-tablet.jpg);
+    width: 21.4rem;
+    height: 32rem;
+    border-radius: 2rem;
   }
 }
