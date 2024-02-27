@@ -328,6 +328,18 @@ footer span {
 
   .two-keyboards {
     gap: 3.05rem;
-    margin-top: 2rem;
+    margin-top: 4rem;
+  }
+
+  .glass-keyboard {
+    display: none;
+  }
+
+  .glass-tablet {
+    display: block;
+    width: 44.5rem;
+    height: 32rem;
+    border-radius: 2rem;
+    transform: translateX(-2rem);
   }
 }
