@@ -409,8 +409,8 @@ footer span {
   header {
     display: flex;
     align-items: center;
-    padding: 6.4rem 16.5rem 0;
-    gap: 89.5rem;
+    padding: 6.4rem 5rem 0;
+    gap: 110rem;
   }
   .pre-order-button {
     height: 5.8rem;
