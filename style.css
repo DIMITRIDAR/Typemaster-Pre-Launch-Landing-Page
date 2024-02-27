@@ -467,7 +467,7 @@ footer span {
     width: 54rem;
     height: 48rem;
     border-radius: 2rem;
-    transform: translateX(20rem);
+    transform: translateX(8rem);
   }
 
   .grey-pic1 {
@@ -475,9 +475,9 @@ footer span {
     display: flex;
     position: absolute;
     width: 25.5rem;
-    height: 24rem;
+    height: 20rem;
     border-radius: 2rem;
-    left: 78rem;
+    left: 68rem;
   }
 
   .parent {
@@ -488,17 +488,17 @@ footer span {
 
   .two-keyboards {
     margin-top: 5rem;
-    margin-left: 1.5rem;
+    margin-left: -2rem;
   }
   .grey-pic2 {
     background-image: url(./assets/pattern-square.svg);
     display: flex;
     position: absolute;
     width: 25.5rem;
-    height: 24rem;
+    height: 20rem;
     border-radius: 2rem;
     left: -18rem;
-    transform: translateY(24rem);
+    transform: translateY(28rem);
   }
 
   .phone-keyboard {
@@ -544,6 +544,21 @@ footer span {
   .whole-container {
     margin-top: 16.8rem;
     gap: 3rem;
-    transform: translateX(-3rem);
+    transform: translateX(-7rem);
+  }
+
+  .width1 {
+    width: 28ch;
+  }
+  .width2 {
+    width: 28ch;
+  }
+
+  .width3 {
+    width: 29ch;
+  }
+
+  .width4 {
+    width: 29ch;
   }
 }
