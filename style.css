@@ -374,4 +374,11 @@ footer span {
     align-items: flex-start;
     text-align: left;
   }
+
+  .box .under-icon {
+    text-align: start;
+  }
+  .easy-texts {
+    text-align: start;
+  }
 }
