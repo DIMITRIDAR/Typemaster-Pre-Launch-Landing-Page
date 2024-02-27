@@ -349,4 +349,15 @@ footer span {
     height: 32rem;
     border-radius: 2rem;
   }
+
+  .text {
+    display: flex;
+    flex-direction: row;
+    margin-top: 8.7rem;
+    gap: 3.6rem;
+  }
+
+  .text h2 {
+    text-align: start;
+  }
 }
