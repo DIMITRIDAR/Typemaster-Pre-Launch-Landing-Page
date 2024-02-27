@@ -404,3 +404,12 @@ footer span {
     padding-bottom: 4.3rem;
   }
 }
+
+@media only screen and (min-width: 90rem) {
+  header {
+    display: flex;
+    align-items: center;
+    padding: 6.4rem 16.5rem 0;
+    gap: 89.5rem;
+  }
+}
