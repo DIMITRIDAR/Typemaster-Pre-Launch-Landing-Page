@@ -363,4 +363,15 @@ footer span {
   .text p {
     width: 43ch;
   }
+
+  .whole-container {
+    margin-top: 14.2rem;
+    flex-flow: row wrap;
+  }
+
+  .box {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+  }
 }
