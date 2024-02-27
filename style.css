@@ -415,4 +415,15 @@ footer span {
   .pre-order-button {
     height: 5.8rem;
   }
+
+  main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .description {
+    display: flex;
+    gap: 12.5rem;
+    margin-top: 15.2rem;
+  }
 }
