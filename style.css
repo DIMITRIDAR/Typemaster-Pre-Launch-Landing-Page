@@ -561,4 +561,9 @@ footer span {
   .width4 {
     width: 29ch;
   }
+
+  footer {
+    margin-top: 12.8rem;
+    padding-bottom: 3.9rem;
+  }
 }
