@@ -360,4 +360,7 @@ footer span {
   .text h2 {
     text-align: start;
   }
+  .text p {
+    width: 43ch;
+  }
 }
