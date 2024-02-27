@@ -483,12 +483,12 @@ footer span {
   .parent {
     display: flex;
     flex-direction: row;
+    gap: 8rem;
   }
 
   .two-keyboards {
-    display: flex;
-    gap: 2rem;
-    margin-top: 2rem;
+    margin-top: 5rem;
+    margin-left: 1.5rem;
   }
   .grey-pic2 {
     background-image: url(./assets/pattern-square.svg);
@@ -528,7 +528,17 @@ footer span {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 5rem;
-    gap: 2.4rem;
+    margin-top: 20rem;
+    gap: 2.7rem;
+  }
+
+  .text h2 {
+    text-align: start;
+    width: 15ch;
+  }
+
+  .text p {
+    text-align: start;
+    width: 29ch;
   }
 }
