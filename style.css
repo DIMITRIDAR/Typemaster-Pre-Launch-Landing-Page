@@ -426,4 +426,18 @@ footer span {
     gap: 12.5rem;
     margin-top: 15.2rem;
   }
+
+  .about-product {
+    gap: 4rem;
+  }
+
+  .about-product h1 {
+    font-size: 5.6rem;
+    line-height: 5.6rem;
+  }
+
+  .about-product p {
+    font-size: 1.8rem;
+    width: 43ch;
+  }
 }
