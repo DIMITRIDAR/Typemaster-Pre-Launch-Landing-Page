@@ -434,10 +434,17 @@ footer span {
   .about-product h1 {
     font-size: 5.6rem;
     line-height: 5.6rem;
+    margin-right: 5rem;
   }
 
   .about-product p {
     font-size: 1.8rem;
     width: 43ch;
+  }
+  .purchase {
+    gap: 14rem;
+  }
+  .pre-order-now {
+    height: 5.8rem;
   }
 }
