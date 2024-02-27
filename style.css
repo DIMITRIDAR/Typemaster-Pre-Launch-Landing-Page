@@ -367,6 +367,7 @@ footer span {
   .whole-container {
     margin-top: 14.2rem;
     flex-flow: row wrap;
+    padding-left: 4rem;
   }
 
   .box {
