@@ -353,6 +353,7 @@ footer span {
   .text {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     margin-top: 8.7rem;
     gap: 3.6rem;
   }
