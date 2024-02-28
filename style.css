@@ -329,6 +329,7 @@ footer span {
   .two-keyboards {
     gap: 3.05rem;
     margin-top: 4rem;
+    display: flex;
   }
 
   .glass-keyboard {
@@ -355,6 +356,7 @@ footer span {
     flex-direction: row;
     justify-content: center;
     margin-top: 8.7rem;
+    margin-left: 5rem;
     gap: 3.6rem;
   }
 
