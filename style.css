@@ -566,4 +566,15 @@ footer span {
     margin-top: 12.8rem;
     padding-bottom: 3.9rem;
   }
+
+  .pre-order-button:hover {
+    cursor: pointer;
+    background: #162542;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .pre-order-button {
+    transition: 0.3s;
+  }
 }
