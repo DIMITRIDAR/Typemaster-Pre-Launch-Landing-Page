@@ -117,10 +117,6 @@ main {
   margin-left: 3rem;
 }
 
-.for-tablet {
-  display: none;
-}
-
 .for-desktop {
   display: none;
 }
@@ -317,13 +313,14 @@ footer span {
   }
 
   .for-tablet {
-    display: block;
-    margin-top: -12rem;
-    width: 47.8rem;
+    background-image: url(./assets/image-keyboard-tablet.jpg);
+    width: 32rem;
     height: 42.5rem;
+    background-size: cover;
+    background-repeat: no-repeat;
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
-    margin-right: -17rem;
+    transform: translateX(2rem);
   }
 
   .two-keyboards {
@@ -458,11 +455,9 @@ footer span {
   .for-mobile {
     display: none;
   }
-
   .for-tablet {
     display: none;
   }
-
   .keyboard {
     display: flex;
     margin-top: -3rem;
