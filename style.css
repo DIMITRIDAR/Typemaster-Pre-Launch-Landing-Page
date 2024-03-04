@@ -290,6 +290,8 @@ footer span {
     flex-direction: row;
     margin-top: 13.1rem;
     gap: 6.9rem;
+    justify-content: space-between;
+    width: 100%;
   }
 
   .about-product {
@@ -580,5 +582,9 @@ footer span {
     cursor: pointer;
     background: #ff9b62;
     transition: 0.3s;
+  }
+  body {
+    background-image: url(./assets/pattern-square.svg);
+    background-repeat: no-repeat;
   }
 }
