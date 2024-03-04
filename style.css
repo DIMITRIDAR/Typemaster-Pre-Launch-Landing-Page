@@ -109,12 +109,18 @@ main {
 }
 
 .for-mobile {
+  background-image: url(./assets/image-keyboard-mobile.jpg);
+  background-size: cover;
   margin-top: 7rem;
-  width: 35rem;
+  width: 34rem;
   height: 33.1rem;
   border-bottom-left-radius: 2rem;
   border-top-left-radius: 2rem;
-  margin-left: 3rem;
+  transform: translateX(2.5rem);
+}
+
+.for-tablet {
+  display: none;
 }
 
 .for-desktop {
