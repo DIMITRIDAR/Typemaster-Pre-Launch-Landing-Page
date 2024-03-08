@@ -498,20 +498,12 @@ footer span {
   }
   .for-desktop {
     display: block;
+    background-image: url(./assets/image-keyboard-desktop.jpg);
+    background-size: cover;
     width: 54rem;
     height: 48rem;
     border-radius: 2rem;
     transform: translateX(8rem);
-  }
-
-  .grey-pic1 {
-    background-image: url(./assets/pattern-square.svg);
-    display: flex;
-    position: absolute;
-    width: 25.5rem;
-    height: 20rem;
-    border-radius: 2rem;
-    left: 68rem;
   }
 
   .parent {
@@ -613,8 +605,15 @@ footer span {
     background: #ff9b62;
     transition: 0.3s;
   }
+
   body {
     background-image: url(./assets/pattern-square.svg);
     background-repeat: no-repeat;
+    display: flex;
+    position: absolute;
+    width: 25.5rem;
+    height: 20rem;
+    border-radius: 2rem;
+    left: 68rem;
   }
 }
