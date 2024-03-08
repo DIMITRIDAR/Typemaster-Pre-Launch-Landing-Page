@@ -128,6 +128,10 @@ main {
   display: none;
 }
 
+.grey-pic1 {
+  display: none;
+}
+
 .parent {
   display: flex;
   flex-direction: column;
@@ -137,6 +141,10 @@ main {
   display: flex;
   gap: 2rem;
   margin-top: 2rem;
+}
+
+.grey-pic2 {
+  display: none;
 }
 
 .phone-keyboard {
@@ -331,10 +339,13 @@ footer span {
     background-repeat: no-repeat;
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
-    transform: translateX(2rem);
   }
 
   .for-desktop {
+    display: none;
+  }
+
+  .grey-pic1 {
     display: none;
   }
 
@@ -342,6 +353,12 @@ footer span {
     gap: 3.05rem;
     margin-top: 4rem;
     display: flex;
+    justify-content: center;
+    margin-left: 4rem;
+  }
+
+  .grey-pic2 {
+    display: none;
   }
 
   .glass-keyboard {
