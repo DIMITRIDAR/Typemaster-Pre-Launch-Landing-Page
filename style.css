@@ -111,6 +111,7 @@ main {
 .for-mobile {
   background-image: url(./assets/image-keyboard-mobile.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
   margin-top: 7rem;
   width: 34rem;
   height: 33.1rem;
@@ -302,6 +303,7 @@ footer span {
 
   .about-product {
     gap: 3.4rem;
+    margin-left: 3rem;
   }
 
   .purchase {
@@ -322,6 +324,7 @@ footer span {
 
   .for-tablet {
     background-image: url(./assets/image-keyboard-tablet.jpg);
+    display: block;
     width: 32rem;
     height: 42.5rem;
     background-size: cover;
@@ -329,6 +332,10 @@ footer span {
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
     transform: translateX(2rem);
+  }
+
+  .for-desktop {
+    display: none;
   }
 
   .two-keyboards {
