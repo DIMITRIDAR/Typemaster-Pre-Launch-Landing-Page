@@ -109,7 +109,7 @@ main {
   text-transform: uppercase;
 }
 
-.for-mobile {
+.keyboard {
   background-image: url(./assets/image-keyboard-mobile.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -118,14 +118,6 @@ main {
   height: 33.1rem;
   border-bottom-left-radius: 2rem;
   border-top-left-radius: 2rem;
-}
-
-.for-tablet {
-  display: none;
-}
-
-.for-desktop {
-  display: none;
 }
 
 .grey-pic1 {
@@ -324,25 +316,9 @@ footer span {
 
   .keyboard {
     margin-top: 6.2rem;
-  }
-
-  .for-mobile {
-    display: none;
-  }
-
-  .for-tablet {
     background-image: url(./assets/image-keyboard-tablet.jpg);
-    display: block;
     width: 32rem;
     height: 42.5rem;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-bottom-left-radius: 2rem;
-    border-top-left-radius: 2rem;
-  }
-
-  .for-desktop {
-    display: none;
   }
 
   .grey-pic1 {
@@ -484,22 +460,12 @@ footer span {
     transition: 0.3s;
   }
 
-  .for-mobile {
-    display: none;
-  }
-  .for-tablet {
-    display: none;
-  }
   .keyboard {
     display: flex;
     margin-top: -3rem;
     position: relative;
     gap: 2rem;
-  }
-  .for-desktop {
-    display: block;
     background-image: url(./assets/image-keyboard-desktop.jpg);
-    background-size: cover;
     width: 54rem;
     height: 48rem;
     border-radius: 2rem;
