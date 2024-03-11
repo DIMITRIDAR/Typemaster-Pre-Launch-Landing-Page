@@ -54,6 +54,7 @@ main {
   flex-direction: column;
   align-items: center;
   margin-top: 6.4rem;
+  align-self: flex-end;
 }
 
 .about-product {
@@ -117,7 +118,6 @@ main {
   height: 33.1rem;
   border-bottom-left-radius: 2rem;
   border-top-left-radius: 2rem;
-  transform: translateX(2.5rem);
 }
 
 .for-tablet {
@@ -611,8 +611,8 @@ footer span {
     background-repeat: no-repeat;
     display: flex;
     position: absolute;
-    width: 25.5rem;
-    height: 20rem;
+    width: 2rem;
+    height: 2rem;
     border-radius: 2rem;
     left: 68rem;
   }
