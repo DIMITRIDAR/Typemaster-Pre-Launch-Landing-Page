@@ -120,10 +120,6 @@ main {
   border-top-left-radius: 2rem;
 }
 
-.grey-pic1 {
-  display: none;
-}
-
 .parent {
   display: flex;
   flex-direction: column;
@@ -133,10 +129,6 @@ main {
   display: flex;
   gap: 2rem;
   margin-top: 2rem;
-}
-
-.grey-pic2 {
-  display: none;
 }
 
 .phone-keyboard {
@@ -321,20 +313,12 @@ footer span {
     height: 42.5rem;
   }
 
-  .grey-pic1 {
-    display: none;
-  }
-
   .two-keyboards {
     gap: 3.05rem;
     margin-top: 4rem;
     display: flex;
     justify-content: center;
     margin-left: 4rem;
-  }
-
-  .grey-pic2 {
-    display: none;
   }
 
   .glass-keyboard {
@@ -482,16 +466,6 @@ footer span {
     margin-top: 5rem;
     margin-left: -2rem;
   }
-  .grey-pic2 {
-    background-image: url(./assets/pattern-square.svg);
-    display: flex;
-    position: absolute;
-    width: 25.5rem;
-    height: 20rem;
-    border-radius: 2rem;
-    left: -18rem;
-    transform: translateY(28rem);
-  }
 
   .phone-keyboard {
     background-image: url(./assets/image-phone-and-keyboard-desktop.jpg);
@@ -573,12 +547,11 @@ footer span {
   }
 
   body {
-    background-image: url(./assets/pattern-square.svg);
+    background-image: url(./assets/pattern-square.svg),
+      url(./assets/pattern-square.svg);
+    background-size: 2rem 20rem;
     background-repeat: no-repeat;
     display: flex;
-    position: absolute;
-    width: 2rem;
-    height: 2rem;
     border-radius: 2rem;
     left: 68rem;
   }
