@@ -453,10 +453,7 @@ footer span {
   }
 
   .keyboard {
-    display: flex;
     margin-top: -3rem;
-    position: relative;
-    gap: 2rem;
     background-image: url(./assets/image-keyboard-desktop.jpg);
     width: 54rem;
     height: 48rem;
