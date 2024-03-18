@@ -506,18 +506,11 @@ footer span {
     gap: 3rem;
     transform: translateX(14rem);
   }
-
-  .width1 {
-    width: 28ch;
-  }
-  .width2 {
+  .easy-texts {
     width: 28ch;
   }
 
-  .width3 {
-    width: 29ch;
-  }
-
+  .width3,
   .width4 {
     width: 29ch;
   }
