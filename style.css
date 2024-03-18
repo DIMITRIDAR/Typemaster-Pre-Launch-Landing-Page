@@ -84,7 +84,7 @@ main {
 
 .purchase {
   display: flex;
-  gap: 5rem;
+  gap: 4rem;
   align-items: center;
 }
 
