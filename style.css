@@ -119,9 +119,11 @@ main {
   height: 33.1rem;
   border-bottom-left-radius: 2rem;
   border-top-left-radius: 2rem;
+  align-self: flex-end;
 }
 
 .parent {
+  width: 100%;
   display: flex;
   flex-direction: column;
 }
@@ -130,6 +132,7 @@ main {
   display: flex;
   gap: 2rem;
   margin-top: 2rem;
+  align-self: flex-start;
 }
 
 .phone-keyboard {
