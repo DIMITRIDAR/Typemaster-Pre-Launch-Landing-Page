@@ -61,7 +61,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 3.2rem;
-  margin-right: 2rem;
+  margin-right: 3rem;
 }
 
 .about-product h1 {
