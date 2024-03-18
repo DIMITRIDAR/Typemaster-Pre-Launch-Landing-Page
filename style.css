@@ -364,6 +364,7 @@ footer span {
   }
   .text p {
     width: 43ch;
+    text-align: start;
   }
 
   .whole-container {
