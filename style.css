@@ -464,7 +464,7 @@ footer span {
     width: 54rem;
     height: 48rem;
     border-radius: 2rem;
-    transform: translateX(6rem);
+    transform: translateX(-12rem);
   }
 
   .parent {
@@ -475,7 +475,7 @@ footer span {
 
   .two-keyboards {
     margin-top: 5rem;
-    margin-left: -2rem;
+    margin-left: 20rem;
   }
 
   .phone-keyboard {
