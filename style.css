@@ -305,6 +305,7 @@ footer span {
   .about-product {
     gap: 3.4rem;
     margin-left: 3rem;
+    margin-top: -6rem;
   }
 
   .purchase {
@@ -312,11 +313,11 @@ footer span {
   }
 
   .pre-order-now {
-    padding: 1rem 2.6rem;
+    padding: 0rem 2rem;
   }
 
   .keyboard {
-    margin-top: 6.2rem;
+    margin-top: -6.8rem;
     background-image: url(./assets/image-keyboard-tablet.jpg);
     width: 32rem;
     height: 42.5rem;
