@@ -521,7 +521,7 @@ footer span {
   .whole-container {
     margin-top: 16.8rem;
     gap: 3rem;
-    transform: translateX(-7rem);
+    transform: translateX(14rem);
   }
 
   .width1 {
@@ -560,8 +560,8 @@ footer span {
   body {
     background-image: url(./assets/pattern-square.svg),
       url(./assets/pattern-square.svg);
-    background-position: 143rem 25rem, -1rem 106rem;
-    background-size: 10rem 18rem, 10rem 18rem;
+    background-position: top 25rem right -3rem, bottom 66rem left -3rem;
+    background-size: 13rem 18rem, 13rem 18rem;
     background-repeat: no-repeat, no-repeat;
   }
 }
