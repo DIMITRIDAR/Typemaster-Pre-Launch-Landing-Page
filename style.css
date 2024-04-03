@@ -39,6 +39,7 @@ header {
   font-weight: 700;
   line-height: 2.6rem;
   text-transform: uppercase;
+  font-family: inherit;
 }
 
 main {
@@ -99,6 +100,7 @@ main {
   text-transform: uppercase;
   font-weight: 700;
   line-height: 2.6rem;
+  font-family: inherit;
 }
 
 .release-on {
