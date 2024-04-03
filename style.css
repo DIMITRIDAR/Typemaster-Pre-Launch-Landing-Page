@@ -3,7 +3,7 @@ html {
   font-size: 10px;
 }
 * {
-  font-family: "Barlow", sans-serif;
+  box-sizing: border-box;
 }
 
 body {
